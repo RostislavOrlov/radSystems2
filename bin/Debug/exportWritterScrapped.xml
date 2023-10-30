@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <rowid>0<goods_id>5</goods_id><goods_name>GoodName5</goods_name><cost_of_one_unit_of_goods>10</cost_of_one_unit_of_goods><date_write_off>16.05.2023 0:00:00</date_write_off><goods_count>50</goods_count><goods_amount>500</goods_amount></rowid>
+  <rowid>1<goods_id>6</goods_id><goods_name>GoodName6</goods_name><cost_of_one_unit_of_goods>20</cost_of_one_unit_of_goods><date_write_off>17.05.2023 0:00:00</date_write_off><goods_count>60</goods_count><goods_amount>600</goods_amount></rowid>
+  <rowid>2<goods_id>7</goods_id><goods_name>GoodName7</goods_name><cost_of_one_unit_of_goods>30</cost_of_one_unit_of_goods><date_write_off>17.05.2023 0:00:00</date_write_off><goods_count>70</goods_count><goods_amount>700</goods_amount></rowid>
+  <rowid>3<goods_id>8</goods_id><goods_name>GoodName8</goods_name><cost_of_one_unit_of_goods>40</cost_of_one_unit_of_goods><date_write_off>18.05.2023 0:00:00</date_write_off><goods_count>80</goods_count><goods_amount>800</goods_amount></rowid>
+</data>

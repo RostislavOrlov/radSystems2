@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <rowid>0<goods_id>8</goods_id><goods_name>GoodName8</goods_name><cost_of_one_unit_of_goods>40</cost_of_one_unit_of_goods><date_sale>06.05.2023 0:00:00</date_sale><goods_count>12</goods_count><goods_amount>576</goods_amount></rowid>
+  <rowid>1<goods_id>9</goods_id><goods_name>GoodName9</goods_name><cost_of_one_unit_of_goods>100</cost_of_one_unit_of_goods><date_sale>19.05.2023 0:00:00</date_sale><goods_count>90</goods_count><goods_amount>900</goods_amount></rowid>
+  <rowid>2<goods_id>10</goods_id><goods_name>GoodName10</goods_name><cost_of_one_unit_of_goods>200</cost_of_one_unit_of_goods><date_sale>20.05.2023 0:00:00</date_sale><goods_count>100</goods_count><goods_amount>1000</goods_amount></rowid>
+  <rowid>3<goods_id>11</goods_id><goods_name>GoodName11</goods_name><cost_of_one_unit_of_goods>300</cost_of_one_unit_of_goods><date_sale>21.05.2023 0:00:00</date_sale><goods_count>110</goods_count><goods_amount>1100</goods_amount></rowid>
+  <rowid>4<goods_id>12</goods_id><goods_name>GoodName12</goods_name><cost_of_one_unit_of_goods>400</cost_of_one_unit_of_goods><date_sale>22.05.2023 0:00:00</date_sale><goods_count>120</goods_count><goods_amount>1200</goods_amount></rowid>
+</data>
